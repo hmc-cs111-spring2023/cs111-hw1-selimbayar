@@ -3,7 +3,7 @@
 _What is the name of the language? Link the name to its webpage
 (if appropriate)._
 
-The name of the language is BGD (BoardGameDescription). There is no official website for it but here is a link to a paper that describes it <https://essay.utwente.nl/79157/1/Schroten_BA_ewi.pdf> and here is a link for its GitHub <https://github.com/QWolf/BoardGameDescription/>
+The name of the language is BGD (BoardGameDescription). There is no official website for it but here is a link to a paper that describes it: <https://essay.utwente.nl/79157/1/Schroten_BA_ewi.pdf> and here is a link for its GitHub: <https://github.com/QWolf/BoardGameDescription/>
 
 # Domain
 
